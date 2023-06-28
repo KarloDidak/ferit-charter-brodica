@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ferit-charter-brodica/static/css/main.da009e93.css",
+    "main.js": "/ferit-charter-brodica/static/js/main.987f2844.js",
+    "static/js/787.eade0181.chunk.js": "/ferit-charter-brodica/static/js/787.eade0181.chunk.js",
+    "static/media/NIMBUS COMMUTER 9.png": "/ferit-charter-brodica/static/media/NIMBUS COMMUTER 9.56166ff7afcc9f07b768.png",
+    "static/media/LAGOON 39 - 1.jpg": "/ferit-charter-brodica/static/media/LAGOON 39 - 1.d9654eb1978a4fe2c4f8.jpg",
+    "static/media/ferit.jpg": "/ferit-charter-brodica/static/media/ferit.ebfce8f9882db2dc2cf3.jpg",
+    "static/media/dubrovnik-o-nama.jpg": "/ferit-charter-brodica/static/media/dubrovnik-o-nama.1e1e9094e71bb406d2a3.jpg",
+    "static/media/BENETEAU OCEANIS 54.jpg": "/ferit-charter-brodica/static/media/BENETEAU OCEANIS 54.e9ff97854f6236bd543b.jpg",
+    "static/media/dubrovnik.jpg": "/ferit-charter-brodica/static/media/dubrovnik.44243e1cdcbac658a59e.jpg",
+    "static/media/RAND SUPREME 27 - 1.jpg": "/ferit-charter-brodica/static/media/RAND SUPREME 27 - 1.9485727005113a7c078a.jpg",
+    "static/media/CRANCHI M44 HT - 1.jpg": "/ferit-charter-brodica/static/media/CRANCHI M44 HT - 1.6b0e8cecb3f4691a06c6.jpg",
+    "static/media/Fountaine Pajot Saona 47.jpeg": "/ferit-charter-brodica/static/media/Fountaine Pajot Saona 47.a5dd5e7b70a3d6994031.jpeg",
+    "static/media/JEANNEAU 64 - 1.jpg": "/ferit-charter-brodica/static/media/JEANNEAU 64 - 1.d606349dc671edff031e.jpg",
+    "static/media/SUNSEEKER PREDATOR 50.jpeg": "/ferit-charter-brodica/static/media/SUNSEEKER PREDATOR 50.75f4d3e89b5d3825b1d9.jpeg",
+    "static/media/OCEAN BEAST 65 - pic 1.jpg": "/ferit-charter-brodica/static/media/OCEAN BEAST 65 - pic 1.1c421c7d7c9d0993bd48.jpg",
+    "static/media/HANSE 588 (3+1).jpg": "/ferit-charter-brodica/static/media/HANSE 588 (3+1).2e5f53fef4e3e1068275.jpg",
+    "static/media/Brig Eagle 645.jpg": "/ferit-charter-brodica/static/media/Brig Eagle 645.1f4c3f1f435be416e4a0.jpg",
+    "static/media/MONACHUS 70.jpg": "/ferit-charter-brodica/static/media/MONACHUS 70.23786d4aad51f59c4c57.jpg",
+    "index.html": "/ferit-charter-brodica/index.html",
+    "main.da009e93.css.map": "/ferit-charter-brodica/static/css/main.da009e93.css.map",
+    "main.987f2844.js.map": "/ferit-charter-brodica/static/js/main.987f2844.js.map",
+    "787.eade0181.chunk.js.map": "/ferit-charter-brodica/static/js/787.eade0181.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da009e93.css",
+    "static/js/main.987f2844.js"
+  ]
+}
