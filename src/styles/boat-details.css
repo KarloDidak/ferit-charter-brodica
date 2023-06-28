@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.boatImg{
+  border: 2px solid #d4af37
+}
+
+.contact-button{
+  border-radius: 0;
+  border: none;
+  outline: none;
+  padding: 8px 20px;
+  
+  text-decoration: none;
+  color: #000d6b;
+  font-weight: 500;
+
+  border: 2px solid blue;  
+}
+
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
