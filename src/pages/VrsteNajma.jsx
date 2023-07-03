@@ -46,33 +46,48 @@ const VrsteNajma = () => {
                 </p>
 
                 <p>
-                Imati profesionalnog skipera na brodu može Vam jako olakšati plovidbu. Ako niste potpuno sigurni u svoje nautičarske mogućnosti i nemate dovoljno iskustva, slobodno se oslonite na profesionalca. Osim što će vas voziti i brinuti se o brodu, skiper vam može dati i brojne korisne savjete, predložiti rute, odgovoriti na većinu vaših pitanja, uputiti vas koje restorane posjetiti, pomoći vam da se lakše snađete u (možda) nepoznatom području, ali i zabavljati vas uzbudljivim i zanimljivim pričama sa svojih putovanja.
-Od skipera možete i mnogo toga naučiti o brodu i navigaciji, a može vam otkriti i pokoju „tajnu zanata“.
+                Imati profesionalnog skipera na brodu može Vam jako olakšati plovidbu. Ako niste potpuno sigurni u svoje nautičarske 
+                mogućnosti i nemate dovoljno iskustva, slobodno se oslonite na profesionalca. Osim što će vas voziti i brinuti se o
+                brodu, skiper vam može dati i brojne korisne savjete, predložiti rute, odgovoriti na većinu vaših pitanja, uputiti vas 
+                koje restorane posjetiti, pomoći vam da se lakše snađete u (možda) nepoznatom području, ali i zabavljati vas uzbudljivim
+                i zanimljivim pričama sa svojih putovanja.
+                Od skipera možete i mnogo toga naučiti o brodu i navigaciji, a može vam otkriti i pokoju „tajnu zanata“.
                 </p>
 
                 <p>
-                Zbog svoje veličine, snage i cijene, veći bodovi mogu se unajmiti samo s barem jednim članom posade, i na njima obično postoji posebna kabina s kupaonicom za posadu. No, ako takva kabina ne postoji, morate imati na umu da i Vaš skiper mora spavati na brodu i da jedno mjesto morate sačuvati za njega. Također, osim ležaja Vi ste odgovorni i hranu za posadu, pa ne zaboravite računati još jednu osobu kad obavljate kupovinu ili izlazite u restoran. Isto vrijedi i za hostesu – ako želite dodatnu pomoć na brodu, ne zaboravite i za nju sačuvati ležaj i hranu.
-Hostesa će vam pomoći u čišćenju broda, kuhanju i održavanju reda u unutrašnjosti, ali vam, kao i skiper, može dati razne korisne savjete i prijedloge.
+                Zbog svoje veličine, snage i cijene, veći bodovi mogu se unajmiti samo s barem jednim članom posade, i na njima obično 
+                postoji posebna kabina s kupaonicom za posadu. No, ako takva kabina ne postoji, morate imati na umu da i Vaš skiper mora spavati na brodu i da jedno mjesto morate sačuvati za njega. Također, osim ležaja Vi ste odgovorni i hranu za posadu, pa ne zaboravite računati još jednu osobu kad obavljate kupovinu ili izlazite u restoran. Isto vrijedi i za hostesu – ako želite dodatnu pomoć na brodu, ne zaboravite i za nju sačuvati ležaj i hranu.
+                Hostesa će vam pomoći u čišćenju broda, kuhanju i održavanju reda u unutrašnjosti, ali vam, kao i skiper, može dati razne korisne savjete
+                i prijedloge.
                 </p>
 
-                <h4><br/> - CHARTER SA POSADOM </h4>
+                <h4><br/> - CHARTER S POSADOM </h4>
 
-                <p>Ako unajmite neku od većih jahti (preko 50-ak stopa), vrlo je vjerojatno da ćete s njom dobiti i barem dva člana posade. Unajmite li još već brod (tzv. luksuznu jahtu ) sigurno je nećete moći dobit bez više članova posade. Doduše, zašto i ne biste željeli imati nekoliko ljudi koji će se brinuti o apsolutno svemu na brodu, a sve što vi trebate činiti je opuštati se i zabavljati.</p>
+                <p>Ako unajmite neku od većih jahti (preko 50-ak stopa), vrlo je vjerojatno da ćete s njom dobiti i barem dva člana posade. 
+                    Unajmite li još već brod (tzv. luksuznu jahtu ) sigurno je nećete moći dobit bez više članova posade. Doduše, zašto i
+                     ne biste željeli imati nekoliko ljudi koji će se brinuti o apsolutno svemu na brodu, a sve što vi trebate činiti je 
+                     opuštati se i zabavljati.</p>
 
                 <p>
                 Na ovakvim brodovima posada ima svoj dio koji je odvojen od dijela za goste tako da ćete sigurno imati vašu privatnost.
                 </p>
 
                 <p>
-                Na velikim jahtama posadu obično čine kapetan, mornar, hostesa/domaćica i kuhar, , a ponekad i zaštitar/čuvar. Svaki od njih ima svoje zadatke i svi su profesionalci u koje možete imati povjerenja da će imati sve pod kontrolom i držati brod u odličnom stanju.
+                Na velikim jahtama posadu obično čine kapetan, mornar, hostesa/domaćica i kuhar, , a ponekad i zaštitar/čuvar. 
+                Svaki od njih ima svoje zadatke i svi su profesionalci u koje možete imati povjerenja da će imati sve pod kontrolom 
+                i držati brod u odličnom stanju.
                 </p>
 
                 <p>
-                Kapetan je, naravno, zadužen za navigaciju i određivanje plana puta (u dogovoru s Vama), mornar obavlja poslove održavanja broda, pomaže kapetanu, asistira pri pristajanju i obavlja razne sitne poslove po brodu, hostesa se brine da unutrašnjost bude uredna i čista, a kuhar priprema hranu i brine se za nabavu namirnica i pića. Detaljnije opise poslova svakog člana posade pročitajte u dijelu posada.
+                Kapetan je, naravno, zadužen za navigaciju i određivanje plana puta (u dogovoru s Vama), mornar obavlja poslove održavanja
+                 broda, pomaže kapetanu, asistira pri pristajanju i obavlja razne sitne poslove po brodu, hostesa se brine da unutrašnjost
+                  bude uredna i čista, a kuhar priprema hranu i brine se za nabavu namirnica i pića. Detaljnije opise poslova svakog člana 
+                  posade pročitajte u dijelu posada.
                 </p>
 
                 <p>
-                Ako imate cijelu posadu na raspolaganju ne morate razmišljati o kuhanju, nabavi namirnica, pospremanju, plovidbi… Na vama je samo da se odmarate i uživate u komforu jahte i prirodnim ljepotama oko Vas.
+                Ako imate cijelu posadu na raspolaganju ne morate razmišljati o kuhanju, nabavi namirnica, pospremanju, plovidbi… 
+                Na vama je samo da se odmarate i uživate u komforu jahte i prirodnim ljepotama oko Vas.
                 </p>
 
 

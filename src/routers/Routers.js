@@ -6,6 +6,7 @@ import BoatDetails from "../pages/BoatDetails";
 import KakoUnajmitiPlovilo from "../pages/KakoUnajmitiPlovilo";
 import ZakoniPlovidbeUHR from "../pages/ZakoniPlovidbeUHR";
 import VrsteNajma from "../pages/VrsteNajma";
+import LogRegSelect from "../pages/LogRegSelect";
 
 import Home from "../pages/Home";
 
@@ -20,7 +21,7 @@ const Routers = () => {
             <Route path="/kako-unajmiti-plovilo" element={<KakoUnajmitiPlovilo />} />
             <Route path="/zakoni-plovidbe-u-hr" element={<ZakoniPlovidbeUHR />} />
             <Route path="/vrste-najma" element={<VrsteNajma />} />
-
+            <Route path="/prijava" element={<LogRegSelect />} />
         </Routes>
     );
 };

@@ -7,8 +7,6 @@ import { Link, NavLink } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css';
 import "../../styles/header.css";
 
-
-
 const navLinks = [
   {
     path: "/home",
@@ -32,7 +30,6 @@ const Header = () => {
   return (
     <header className="header">
   
-      {/* =============== header middle =========== */}
       <div className="header__middle">
         <Container>
           <Row>
@@ -47,6 +44,14 @@ const Header = () => {
                   </Link>
                 </h1>
               </div>
+            </Col>
+
+            <Col lg="8" md="3" sm="0" className=" d-flex align-items-center justify-content-end" >
+              <button className="header__btn btn ">
+                <Link to="/prijava">
+                   Prijava / Registracija
+                </Link>
+              </button>
             </Col>
           </Row>
         </Container>
