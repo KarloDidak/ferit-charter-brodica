@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ferit-charter-brodica/static/css/main.da009e93.css",
-    "main.js": "/ferit-charter-brodica/static/js/main.987f2844.js",
+    "main.css": "/ferit-charter-brodica/static/css/main.1cf3be58.css",
+    "main.js": "/ferit-charter-brodica/static/js/main.3d424ddf.js",
     "static/js/787.eade0181.chunk.js": "/ferit-charter-brodica/static/js/787.eade0181.chunk.js",
     "static/media/NIMBUS COMMUTER 9.png": "/ferit-charter-brodica/static/media/NIMBUS COMMUTER 9.56166ff7afcc9f07b768.png",
     "static/media/LAGOON 39 - 1.jpg": "/ferit-charter-brodica/static/media/LAGOON 39 - 1.d9654eb1978a4fe2c4f8.jpg",
@@ -19,12 +19,12 @@
     "static/media/Brig Eagle 645.jpg": "/ferit-charter-brodica/static/media/Brig Eagle 645.1f4c3f1f435be416e4a0.jpg",
     "static/media/MONACHUS 70.jpg": "/ferit-charter-brodica/static/media/MONACHUS 70.23786d4aad51f59c4c57.jpg",
     "index.html": "/ferit-charter-brodica/index.html",
-    "main.da009e93.css.map": "/ferit-charter-brodica/static/css/main.da009e93.css.map",
-    "main.987f2844.js.map": "/ferit-charter-brodica/static/js/main.987f2844.js.map",
+    "main.1cf3be58.css.map": "/ferit-charter-brodica/static/css/main.1cf3be58.css.map",
+    "main.3d424ddf.js.map": "/ferit-charter-brodica/static/js/main.3d424ddf.js.map",
     "787.eade0181.chunk.js.map": "/ferit-charter-brodica/static/js/787.eade0181.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da009e93.css",
-    "static/js/main.987f2844.js"
+    "static/css/main.1cf3be58.css",
+    "static/js/main.3d424ddf.js"
   ]
 }
